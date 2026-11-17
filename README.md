@@ -1,12 +1,10 @@
-# Bonjour, je suis Marius YABOYA 👋
+# Marius YABOYA
 
 ### 🎓 Étudiant ingénieur à l'ENSAI | Data Science & Gestion des risques | Finance quantitative
 
-La donnée n'est jamais une fin en soi : c'est un langage qui, une fois décodé, permet de comprendre les phénomènes, d'anticiper les risques et d'éclairer les décisions.
+Actuellement en troisième année à l'**ENSAI**, en filière **Data Science et Gestion des risques**, je m'intéresse particulièrement à la modélisation du risque de crédit.
 
-Actuellement en troisième année à l'**ENSAI**, en filière **Data Science et Gestion des risques**, je m'intéresse particulièrement à la modélisation statistique, au Machine Learning et à leurs applications dans les domaines de la finance et du risque bancaire.
-
-Mon parcours associe statistiques, mathématiques appliquées, informatique et finance. Je cherche à transformer des problématiques concrètes en solutions quantitatives fiables, interprétables et exploitables.
+Mon parcours associe statistiques, mathématiques appliquées, informatique et finance. 
 
 ---
 
@@ -16,7 +14,7 @@ Mon parcours associe statistiques, mathématiques appliquées, informatique et f
 - **Risque de crédit :** Probability of Default (PD), Loss Given Default (LGD), Credit Conversion Factor (CCF), scoring et notation.
 - **Finance quantitative :** modélisation financière, séries temporelles, volatilité, Value at Risk (VaR).
 - **Statistiques appliquées :** régression, inférence statistique, analyse exploratoire et prévision.
-- **Modélisation du risque :** stress testing, IFRS 9, ICAAP et analyse de scénarios économiques.
+- **Modélisation du risque :** stress testing, IFRS 9.
 
 ---
 
