@@ -1,0 +1,17 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Masque « View the Project on GitHub » et « This project is maintained by » */
+header p.view { display: none; }
+footer p:first-child { display: none; }
+
+/* Le logo ne déborde plus de la sidebar */
+header img { max-width: 100%; height: auto; }
+
+/* Le pied de page cesse de flotter par-dessus le contenu */
+footer { position: static !important; width: auto !important; margin-top: 30px; }
+
+@media (max-width: 720px) {
+  header, footer { position: static !important; width: auto !important; }
+}
