@@ -1,6 +1,6 @@
 title: "Marius YABOYA" 
 logo: img/yam.jpg 
 description: "Portfolio Data Scientist - IA, Data Science, Formation"
-show_downloads: True
+show_downloads: false
 theme: jekyll-theme-minimal
 lang: fr
