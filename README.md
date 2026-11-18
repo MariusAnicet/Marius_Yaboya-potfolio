@@ -1,21 +1,19 @@
-<div align="center">
-
 # Marius YABOYA
 
 ### Étudiant ingénieur · Data Science & Gestion des risques · Finance quantitative
 
 *« Transformer la donnée en connaissance, et la connaissance en décision. »*
 
-<br>
+<p>
+<img src="https://img.shields.io/badge/ENSAI-Data%20Science%20%26%20Risques-1f4e79?style=flat-square" alt="ENSAI">
+<img src="https://img.shields.io/badge/IGR--IAE%20Rennes-Master%20Advanced%20Finance-2e7d32?style=flat-square" alt="IGR-IAE Rennes">
+<img src="https://img.shields.io/badge/Recherche-Stage%20analyste%20quantitatif%20%C2%B7%20avril%202027-orange?style=flat-square" alt="Recherche de stage">
+</p>
 
-![ENSAI](https://img.shields.io/badge/ENSAI-Data%20Science%20%26%20Risques-1f4e79?style=for-the-badge)
-![IGR-IAE](https://img.shields.io/badge/IGR--IAE%20Rennes-Master%20Advanced%20Finance-2e7d32?style=for-the-badge)
-![Statut](https://img.shields.io/badge/Recherche-Stage%20analyste%20quantitatif%20%C2%B7%20avril%202027-orange?style=for-the-badge)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon%20profil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](URL_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Me%20contacter-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ADRESSE_EMAIL)
-
-</div>
+<p>
+<a href="URL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Mon%20profil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ADRESSE_EMAIL"><img src="https://img.shields.io/badge/Email-Me%20contacter-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
@@ -29,7 +27,7 @@
 
 ## 🎯 Domaines d'intérêt
 
-| | |
+| Domaine | Thèmes |
 |---|---|
 | 🏦 **Risque de crédit** | PD, LGD, CCF, scoring et notation |
 | 🧪 **Stress testing & IFRS 9** | Projections prospectives |
@@ -77,11 +75,8 @@
 
 ## 📂 Projets
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏦 Scoring de la probabilité de défaut à 12 mois
+
 Démarche complète de construction d'un modèle de scoring, de la préparation des données à l'évaluation.
 
 - Segmentation et profils de risque
@@ -89,57 +84,37 @@ Démarche complète de construction d'un modèle de scoring, de la préparation 
 - Régression logistique et scorecard
 - AUC, Gini, stabilité temporelle
 
-**Stack :** `Python` `scikit-learn`
-
-[➡️ Voir le projet](URL_DU_PROJET)
-
-</td>
-<td width="50%" valign="top">
+**Stack :** `Python` · `scikit-learn` — [➡️ Voir le projet](URL_DU_PROJET)
 
 ### 📈 Volatilité du NASDAQ Composite & VaR
+
 Étude statistique des rendements financiers et mesure du risque de marché.
 
 - Analyse exploratoire des séries temporelles
 - Étude de la volatilité
 - Estimation et interprétation de la VaR
 
-**Stack :** `Python` `Séries temporelles`
-
-[➡️ Voir le projet](URL_DU_PROJET)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Stack :** `Python` · `Séries temporelles` — [➡️ Voir le projet](URL_DU_PROJET)
 
 ### 🌍 Migrations nettes et croissance du Gabon (2000–2022)
+
 Analyse économétrique des liens entre dynamiques migratoires et croissance.
 
 - Statistiques descriptives et inférentielles
 - Évolutions temporelles
 - Interprétation des relations macroéconomiques
 
-**Stack :** `R` `Économétrie`
-
-[➡️ Voir le projet](URL_DU_PROJET)
-
-</td>
-<td width="50%" valign="top">
+**Stack :** `R` · `Économétrie` — [➡️ Voir le projet](URL_DU_PROJET)
 
 ### 📊 Tableau de bord d'une enquête ménages
+
 Application interactive de suivi en temps réel d'une enquête statistique annuelle.
 
 - Nettoyage des données de collecte
 - Indicateurs de progression
 - Appui aux équipes de terrain
 
-**Stack :** `Python` `Streamlit`
-
-[➡️ Voir le projet](URL_DU_PROJET)
-
-</td>
-</tr>
-</table>
+**Stack :** `Python` · `Streamlit` — [➡️ Voir le projet](URL_DU_PROJET)
 
 ---
 
@@ -147,9 +122,9 @@ Application interactive de suivi en temps réel d'une enquête statistique annue
 
 | Poste | Structure | Missions clés |
 |---|---|---|
-| **Stagiaire analyste quantitatif — Risque de crédit** | Banque Populaire Grand Ouest | Modélisation des migrations de notation et des taux de défaut (Merton-Vasicek) ; projection des PD prospectives (IFRS 9, ICAAP) |
-| **Projet scoring PD — Retail** | ENSAI × LCL | Segmentation, discrétisation, modélisation ; analyse de la différenciation du risque et des performances prédictives |
-| **Chargé d'études junior** | ISSEA, Yaoundé | Enquête annuelle auprès des ménages ; préparation et analyse des données ; application de suivi Streamlit |
+| **Stagiaire analyste quantitatif — Risque de crédit** | Banque Populaire Grand Ouest | Migrations de notation et taux de défaut (Merton-Vasicek) ; PD prospectives (IFRS 9, ICAAP) |
+| **Projet scoring PD — Retail** | ENSAI × LCL | Segmentation, discrétisation, modélisation ; différenciation du risque et performances prédictives |
+| **Chargé d'études junior** | ISSEA, Yaoundé | Enquête annuelle auprès des ménages ; analyse des données ; application de suivi Streamlit |
 
 ---
 
@@ -165,5 +140,7 @@ Application interactive de suivi en temps réel d'une enquête statistique annue
 
 Je suis ouvert aux échanges autour de la Data Science, du Machine Learning, de la finance quantitative et de la modélisation des risques.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon%20profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](URL_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Me%20%C3%A9crire-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADRESSE_EMAIL)
+<p>
+<a href="URL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Mon%20profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ADRESSE_EMAIL"><img src="https://img.shields.io/badge/Email-Me%20%C3%A9crire-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
