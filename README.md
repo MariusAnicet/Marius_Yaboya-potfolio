@@ -1,138 +1,169 @@
+<div align="center">
+
 # Marius YABOYA
 
-### 🎓 Étudiant ingénieur à l'ENSAI | Data Science & Gestion des risques | Finance quantitative
+### Étudiant ingénieur · Data Science & Gestion des risques · Finance quantitative
 
-Actuellement en troisième année à l'**ENSAI**, en filière **Data Science et Gestion des risques**, je m'intéresse particulièrement à la modélisation du risque de crédit.
+*« Transformer la donnée en connaissance, et la connaissance en décision. »*
 
-Mon parcours associe statistiques, mathématiques appliquées, informatique et finance. 
+<br>
+
+![ENSAI](https://img.shields.io/badge/ENSAI-Data%20Science%20%26%20Risques-1f4e79?style=for-the-badge)
+![IGR-IAE](https://img.shields.io/badge/IGR--IAE%20Rennes-Master%20Advanced%20Finance-2e7d32?style=for-the-badge)
+![Statut](https://img.shields.io/badge/Recherche-Stage%20analyste%20quantitatif%20%C2%B7%20avril%202027-orange?style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon%20profil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](URL_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Me%20contacter-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ADRESSE_EMAIL)
+
+</div>
+
+---
+
+## 👋 À propos
+
+Élève ingénieur en troisième année à l'**ENSAI** (filière **Data Science et Gestion des risques**) et en Master **Advanced Finance** à l'**IGR-IAE Rennes**, je me spécialise dans la **modélisation du risque de crédit**. Mon parcours associe statistiques, mathématiques appliquées, informatique et finance.
+
+🔭 **Je recherche** un stage de fin d'études de 6 mois à partir d'avril 2027, en tant qu'**analyste quantitatif**.
 
 ---
 
 ## 🎯 Domaines d'intérêt
 
-- **Data Science & Machine Learning :** apprentissage supervisé, classification, segmentation, sélection de variables et évaluation prédictive.
-- **Risque de crédit :** Probability of Default (PD), Loss Given Default (LGD), Credit Conversion Factor (CCF), scoring et notation.
-- **Finance quantitative :** modélisation financière, séries temporelles, volatilité, Value at Risk (VaR).
-- **Statistiques appliquées :** régression, inférence statistique, analyse exploratoire et prévision.
-- **Modélisation du risque :** stress testing, IFRS 9.
-
----
-
-## 💻 Compétences techniques
-
-| Domaine | Technologies et méthodes |
+| | |
 |---|---|
-| Langages | Python, R, SQL, SAS |
-| Data Science | Scikit-learn, XGBoost, TensorFlow, PyTorch |
-| Modélisation | Régression logistique, Ridge, Lasso, Elastic Net, SVM, Boosting, Stacking |
-| Statistiques | Régression, clustering, séries temporelles, inférence statistique |
-| Data Visualisation | Matplotlib, Seaborn, Plotly |
-| Applications | Streamlit, Shiny |
-| Environnement | Git, GitHub, Jupyter Notebook, VS Code |
-| Bureautique | Excel, Word, PowerPoint |
+| 🏦 **Risque de crédit** | PD, LGD, CCF, scoring et notation |
+| 🧪 **Stress testing & IFRS 9** | Projections prospectives |
+| 📈 **Finance quantitative** | Séries temporelles, volatilité, Value at Risk |
+| 🤖 **Data Science & ML** | Classification, segmentation, sélection de variables, évaluation prédictive |
+| 📐 **Statistiques appliquées** | Régression, inférence, analyse exploratoire, prévision |
 
 ---
 
-## 📂 Mes projets
+## 🛠️ Compétences techniques
 
-Je développe des projets autour de la modélisation statistique, du Machine Learning, de la finance et de la gestion des risques.
+**Langages**
 
-### 🏦 1. Modélisation du risque de crédit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0378CD?style=flat-square&logo=sas&logoColor=white)
 
-**Scoring et prédiction de la probabilité de défaut à 12 mois**
+**Data Science & Machine Learning**
 
-Développement d'une démarche de construction d'un modèle de scoring : de la préparation des données à l'évaluation des performances.
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5B25?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-Principales thématiques :
-- Segmentation de la population et analyse des profils de risque.
-- Discrétisation des variables explicatives.
-- Modélisation par régression logistique.
-- Construction d'une scorecard.
-- Évaluation avec AUC, Gini et analyse de la stabilité temporelle.
+**Visualisation & applications**
 
-🔗 [Voir le projet sur GitHub](URL_DU_PROJET)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-1F65CC?style=flat-square)
 
-### 📈 2. Finance quantitative
+**Environnement**
 
-**Analyse de la volatilité du NASDAQ Composite et estimation de la Value at Risk**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-Étude statistique du comportement des rendements financiers et mesure du risque de marché.
-
-Principales thématiques :
-- Analyse exploratoire des séries temporelles financières.
-- Étude de la volatilité.
-- Modélisation du risque de marché.
-- Estimation et interprétation de la Value at Risk (VaR).
-
-🔗 [Voir le projet sur GitHub](URL_DU_PROJET)
-
-### 🌍 3. Économie et statistiques appliquées
-
-**Impact des migrations nettes sur la croissance économique du Gabon (2000–2022)**
-
-Analyse statistique et économétrique des relations entre les dynamiques migratoires et la croissance économique.
-
-Principales thématiques :
-- Analyse des données économiques.
-- Étude des évolutions temporelles.
-- Statistiques descriptives et inférentielles.
-- Interprétation des relations entre variables macroéconomiques.
-
-🔗 [Voir le projet sur GitHub](URL_DU_PROJET)
-
-### 📊 4. Data Engineering & Visualisation
-
-**Tableau de bord de suivi d'une enquête annuelle auprès des ménages**
-
-Conception et déploiement d'une application interactive avec Streamlit pour suivre en temps réel l'avancement d'une enquête statistique.
-
-Principales réalisations :
-- Préparation et nettoyage des données d'enquête.
-- Développement d'un tableau de bord interactif.
-- Visualisation des indicateurs de progression.
-- Suivi des opérations de collecte et appui aux équipes de terrain.
-
-🔗 [Voir le projet sur GitHub](URL_DU_PROJET)
+**Méthodes** : régression logistique · Ridge / Lasso / Elastic Net · SVM · Boosting · Stacking · clustering · séries temporelles · inférence statistique
 
 ---
 
-## 💼 Expériences professionnelles
+## 📂 Projets
 
-**Analyste quantitatif – Risque de crédit | Banque Populaire Grand Ouest**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Modélisation des migrations de notation et des taux de défaut avec le modèle de Merton-Vasicek.
-- Projection des probabilités de défaut prospectives dans les cadres IFRS 9 et ICAAP.
+### 🏦 Scoring de la probabilité de défaut à 12 mois
+Démarche complète de construction d'un modèle de scoring, de la préparation des données à l'évaluation.
 
-**Projet de modélisation du risque de crédit | ENSAI – LCL**
+- Segmentation et profils de risque
+- Discrétisation des variables
+- Régression logistique et scorecard
+- AUC, Gini, stabilité temporelle
 
-- Construction d'une démarche de scoring sur un portefeuille Retail.
-- Segmentation, discrétisation et modélisation statistique.
-- Analyse de la différenciation du risque et des performances prédictives.
+**Stack :** `Python` `scikit-learn`
 
-**Chargé d'études junior | ISSEA – Yaoundé**
+[➡️ Voir le projet](URL_DU_PROJET)
 
-- Participation à une enquête annuelle auprès des ménages.
-- Préparation et analyse des données de collecte.
-- Développement d'une application de suivi sous Streamlit.
+</td>
+<td width="50%" valign="top">
+
+### 📈 Volatilité du NASDAQ Composite & VaR
+Étude statistique des rendements financiers et mesure du risque de marché.
+
+- Analyse exploratoire des séries temporelles
+- Étude de la volatilité
+- Estimation et interprétation de la VaR
+
+**Stack :** `Python` `Séries temporelles`
+
+[➡️ Voir le projet](URL_DU_PROJET)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Migrations nettes et croissance du Gabon (2000–2022)
+Analyse économétrique des liens entre dynamiques migratoires et croissance.
+
+- Statistiques descriptives et inférentielles
+- Évolutions temporelles
+- Interprétation des relations macroéconomiques
+
+**Stack :** `R` `Économétrie`
+
+[➡️ Voir le projet](URL_DU_PROJET)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Tableau de bord d'une enquête ménages
+Application interactive de suivi en temps réel d'une enquête statistique annuelle.
+
+- Nettoyage des données de collecte
+- Indicateurs de progression
+- Appui aux équipes de terrain
+
+**Stack :** `Python` `Streamlit`
+
+[➡️ Voir le projet](URL_DU_PROJET)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Formation
+## 💼 Expériences
 
-- **ENSAI – École nationale de la statistique et de l'analyse de l'information** : troisième année, Data Science et Gestion des risques.
-- **IGR-IAE Rennes** : Master Advanced Studies and Research in Finance.
-- **ISSEA – Yaoundé** : formation antérieure en statistique et économie appliquée.
+| Poste | Structure | Missions clés |
+|---|---|---|
+| **Stagiaire analyste quantitatif — Risque de crédit** | Banque Populaire Grand Ouest | Modélisation des migrations de notation et des taux de défaut (Merton-Vasicek) ; projection des PD prospectives (IFRS 9, ICAAP) |
+| **Projet scoring PD — Retail** | ENSAI × LCL | Segmentation, discrétisation, modélisation ; analyse de la différenciation du risque et des performances prédictives |
+| **Chargé d'études junior** | ISSEA, Yaoundé | Enquête annuelle auprès des ménages ; préparation et analyse des données ; application de suivi Streamlit |
+
+---
+
+## 🎓 Formation
+
+- **ENSAI** : cycle ingénieur, Data Science et Gestion des risques (3<sup>e</sup> année)
+- **IGR-IAE Rennes** : Master Advanced Studies and Research in Finance
+- **ISSEA, Yaoundé** : statistique et économie appliquée
 
 ---
 
 ## 📫 Me contacter
 
-Je suis intéressé par les échanges autour de la Data Science, du Machine Learning, de la finance quantitative et de la modélisation des risques.
+Je suis ouvert aux échanges autour de la Data Science, du Machine Learning, de la finance quantitative et de la modélisation des risques.
 
-- **GitHub :** [Mes projets](https://github.com/)
-- **LinkedIn :** [Mon profil LinkedIn](URL_LINKEDIN)
-- **Email :** [Mon adresse professionnelle](mailto:ADRESSE_EMAIL)
-
----
-
-*« Transformer la donnée en connaissance, et la connaissance en décision. »*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon%20profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](URL_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Me%20%C3%A9crire-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADRESSE_EMAIL)
